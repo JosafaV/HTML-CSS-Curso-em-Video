@@ -1,0 +1,10 @@
+@charset "YTF-8";
+
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: blue;
+    background-color: black;
+}
